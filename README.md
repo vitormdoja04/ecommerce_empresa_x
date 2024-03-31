@@ -7,7 +7,7 @@ _Checkout, tela de produto, Catálogo, Home com banner_
 
 ### Melhorias do Projeto
 
-__*Melhoria 1, Melhoria 2__*
+__Melhoria 1, Melhoria 2__
 
 ### Linguagens do Projeto
 
