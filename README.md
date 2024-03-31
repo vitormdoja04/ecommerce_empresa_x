@@ -5,7 +5,7 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 _Checkout, tela de produto, Catálogo, Home com banner_
 
-#### Melhorias do Projeto
+### Melhorias do Projeto
 
 __Melhoria 1, Melhoria 2__
 
