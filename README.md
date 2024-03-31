@@ -3,8 +3,8 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 ## Funcionalidades
 
-Checkout, tela de produto, Catálogo, Home com banner
+_Checkout, tela de produto, Catálogo, Home com banner_
 
 #### Melhorias do Projeto
 
-Melhoria 1, Melhoria 2
+__Melhoria 1, Melhoria 2__
