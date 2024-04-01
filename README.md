@@ -51,3 +51,10 @@ function soma(a + b) {
     return a + b;
 }
 ```
+
+### Lista de Tarefas a Fazer:
+
+- [ x ] Área de Membros
+- [ ] Integração com Outros Pagamentos
+- [ ] Sistema de Bônus
+- [ x ] CSS do Rodapé
