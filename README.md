@@ -25,3 +25,7 @@ __Melhoria 1, Melhoria 2__
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistemas de bônus primeira compra
+
+### Imagem Local
+
+![Logo do Html](html.jpeg)
