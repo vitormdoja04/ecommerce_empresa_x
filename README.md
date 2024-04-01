@@ -39,3 +39,5 @@ __Melhoria 1, Melhoria 2__
 [Google](https://www.google.com)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor: https://www.github.com/vitormdoja04
