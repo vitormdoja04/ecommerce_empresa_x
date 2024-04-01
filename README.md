@@ -42,4 +42,4 @@ __Melhoria 1, Melhoria 2__
 
 Contribuidor: https://www.github.com/vitormdoja04
 
-[![Logo do PHP](https://www.site.pt/wp-content/uploads/2022/01/o-que-e-php-845x480.jpg)](https://www.site.pt/wp-content/uploads/2022/01/)
+[![Logo do PHP](https://www.site.pt/wp-content/uploads/2022/01/o-que-e-php-845x480.jpg)](https://www.site.pt/wp-content/uploads/2022/01/o-que-e-php-845x480.jpg)
