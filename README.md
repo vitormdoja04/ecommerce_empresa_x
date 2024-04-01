@@ -29,3 +29,7 @@ __Melhoria 1, Melhoria 2__
 ### Imagem Local
 
 ![Logo do Html](html.jpeg)
+
+### Imagem Externa
+
+![Logo do PHP](https://www.site.pt/wp-content/uploads/2022/01/o-que-e-php-845x480.jpg)
